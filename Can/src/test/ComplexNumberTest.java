@@ -27,6 +27,8 @@ public class ComplexNumberTest {
 		System.out.println("Number 1: " + number1);
 		System.out.println("Number 2: " + number2);
 		
+		System.out.println();
+		
 
 	}
 
